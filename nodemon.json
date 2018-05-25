@@ -1,0 +1,8 @@
+{
+    "watch": ["src", "test"],
+    "ext": "ts",
+    "exec": "ts-node ./src/index.ts",
+    "events": {
+      "restart": "yarn run test_unit_silent"
+    }
+  }

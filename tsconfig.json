@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": [
+            "esnext",
+            "es2015.promise",
+            "esnext.asynciterable",
+            "dom",
+        ],
+        "removeComments": false
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        ".git"
+    ]
+}

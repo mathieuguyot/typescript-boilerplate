@@ -2,8 +2,7 @@
 
 This tiny project is just another Typescript boilerplate :)
 
-This Typescript boilerplate will allow you to create node project that
-with :
+This Typescript boilerplate will allow you to create node project with :
 * Hot reloading and hot test reloading (with nodemon)
 * mocha / chai tests (with... mocha and chai)
 * code coverage (with nyc)
